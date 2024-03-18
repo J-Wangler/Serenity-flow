@@ -6,11 +6,11 @@ body {
 }
 
 header {
-  background-image: url('zen_stones.jpg');
+  background-image: url('buda.jpg');
   background-size: cover;
   background-position: left;
   color: #101d02;
-  text-align: right;
+  text-align: start;
   padding: 100px 0;
 }
 
